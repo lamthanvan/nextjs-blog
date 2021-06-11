@@ -37,6 +37,10 @@ export default function Layout({ children, home }) {
 							alt={name}
 						/>
 						<h1 className={utilStyles.heading2Xl}>{name}</h1>
+						Domain sales [T]:
+						<Link href="https://telegram.me/lamtv93">
+						<a>lamtv93</a>
+						</Link>
 					</>
 				) : (
 					<>
